@@ -44,12 +44,11 @@ Seeking internship / part-time opportunities in software development.
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MSSQL" width="40" height="40"/></a>
 </p>
 
+
 ---
 
-## GitHub Stats
-
-![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=MilkyMoonAtNight&theme=dark&show_icons=true)
-
+## 3D Contribution Calendar
+![3D contribution graph](https://raw.githubusercontent.com/milkymoonatnight/milkymoonatnight/main/profile-3d-contrib/profile-night-green.svg)
 
 ---
 
