@@ -45,13 +45,6 @@ Seeking internship / part-time opportunities in software development.
 </p>
 
 
----
-
-## 3D Contribution Calendar
-![3D contribution graph](https://raw.githubusercontent.com/milkymoonatnight/milkymoonatnight/main/profile-3d-contrib/profile-night-green.svg)
-
----
-
 ## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iwan-groenewald-1b23a62a0/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ff5e1a?style=for-the-badge&logo=google-chrome&logoColor=white)](https://milkymoonatnight.github.io/PersonalWebsite/)
